@@ -30,7 +30,8 @@ nc -lnvp LPORT
 
 
 Résumé :    
-Le serveur envoie des commandes exécutées par le client et recois le résultat et les erreurs.
+Le serveur envoie des commandes exécutées par le client et recois le résultat et les erreurs.  
 
+[Simple Netcat Payload](cheatsheets/payloads/reverse_shell/simple_netcat.md)
 
 

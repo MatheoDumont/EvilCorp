@@ -1,6 +1,8 @@
 
-# Simple Netcat playload
-Payload en utilisant Netcat (nc) comme reverse shell.  
+# Simple Netcat payload
+Payload en utilisant Netcat (nc) comme reverse shell.    
+  
+Source: https://amriunix.com/post/cve-2007-2447-samba-usermap-script/
 
 
 ## Commandes :  

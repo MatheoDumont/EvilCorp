@@ -3,6 +3,8 @@
 ## Tools
   
 - [Nmap](cheatsheets/tools/nmap.md)
+- [Netcat](cheatsheets/tools/netcat.md)
+- [Metasploit Framework](cheatsheets/tools/metasploitframework.md)
  
 ## Payloads
   

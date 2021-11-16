@@ -13,6 +13,7 @@ Scanner sur une/des machines les ports ouverts et les services associés.
 |```sudo nmap -sV @ip``` | Pour découvrir versions des services. |
 |```sudo nmap -sn @iprange``` | Découvre les interfaces ouvertes sur les réseaux spécifiés avec *@iprange* de la forme ```x.y.z.w/[0-32]``` ou ```x.y.z.w - a.b.c.d```, équivalent à *netdiscover*. |
 |```sudo nmap -p [x-y] @ip``` | Scan les compris dans ```[x, y]``` sur *@ip*. |
+|```sudo nmap -p- @ip``` | Scan tous les ports sur *@ip*. |
 |```nmap -F @ip``` | Découvre les 100 port les plus utilisés sur *@ip*. |
 |```sudo nmap -A @ip ```| *A* pour aggressive, scan plus complet, avec scan d'os, version scan et autre.|
 |```sudo nmap -s [0-9] ... ```| ```--version-intensity```, default=7, Intensité de scan. |

@@ -5,7 +5,7 @@
 - [Nmap](cheatsheets/tools/nmap.md)
 - [Netcat](cheatsheets/tools/netcat.md)
 - [Metasploit Framework](cheatsheets/tools/metasploitframework.md)
-- [autres](cheatsheets/tools/others.md)
+- [autres](cheatsheets/tools/autres.md)
  
 ## Payloads
   

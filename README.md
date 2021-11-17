@@ -18,4 +18,7 @@
  - [Backdoor](https://backdoor.sdslabs.co/)
  - [Rootme](https://www.root-me.org/?page=sommaire&lang=fr)
 
+## Ressources et Cours
+- [Cours d'assembleur entre autre, avec un exemple de Buffer Overflow Exploit](https://cs224.cs.vassar.edu/)
+
 

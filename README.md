@@ -24,5 +24,6 @@
 - [Cours d'assembleur entre autre, avec un exemple de Buffer Overflow Exploit](https://cs224.cs.vassar.edu/)
 - [Nmap Project : liste de ressources et doc](https://sectools.org/)
 - [Site d'un type qui a fait des workshop sur scapy, le networking et le packet forging](https://www.disruptivelabs.in/training/)
+- [Cours Socket C++](https://broux.developpez.com/articles/c/sockets/)
 
 
